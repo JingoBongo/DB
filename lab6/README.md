@@ -1,7 +1,7 @@
 # Lab 5
 
 # ex1
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab6/screenshots/ex1.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab6/screenshots/ex1.png)
 
 
 # ex2
