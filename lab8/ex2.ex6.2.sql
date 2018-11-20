@@ -1,0 +1,1 @@
+delete EX6 where Nume_Student = 'Dan'
