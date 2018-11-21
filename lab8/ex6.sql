@@ -15,12 +15,12 @@ INSERT INTO task VALUES
 
 
 WITH traverse AS (
-        SELECT id FROM task
-        WHERE dependent_id = 0 
+        SELECT id,dependent_id FROM task
+        WHERE id = 3
     UNION ALL
-        SELECT task.id FROM task
+        SELECT task.id,task.dependent_id FROM task
         INNER JOIN traverse
-        ON task.dependent_id = traverse.id
+        ON task.id = traverse.dependent_id
 )
 
 
