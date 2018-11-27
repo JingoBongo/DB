@@ -20,7 +20,7 @@
 # ex6
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex6.1.PNG)
 
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex6.2.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex6.2PNG.PNG)
 
 # ex7
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex7.PNG)
