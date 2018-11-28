@@ -6,7 +6,7 @@
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex1.2.PNG)
 
 # ex2
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex2.PNG)
+![Alt text](https://github.com/JingoBongo/BD-Lab-2-in-documents-/blob/master/BD-lab-9/ex2.PNG)
 
 # ex3
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab9/screenshots/ex3.PNG)
