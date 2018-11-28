@@ -6,8 +6,6 @@
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab8/screenshots/ex1.2.PNG)
 
 # ex2
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab8/screenshots/ex2.PNG)
-
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab8/screenshots/ex2.1.PNG)
 
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab8/screenshots/ex2.2.PNG)
