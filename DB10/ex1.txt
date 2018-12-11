@@ -1,0 +1,15 @@
+CREATE OR ALTER TRIGGER inregistrarea_noua ON Orarul 
+ after  update
+AS
+BEGIN
+declare @old int;
+declare @new int;
+SELECT top 1 @old = Auditoriu FROM deleted
+SELECT top 1 @new = Auditoriu FROM inserted
+select top 1 * , @old as Aud_Vechi from orarul
+END
+GO
+select * from orarul
+UPDATE orarul 
+SET orarul.Auditoriu = 999
+WHERE Auditoriu = 501;
